@@ -114,9 +114,9 @@ def main():
     
     # Define models to run
     models = {
-        'YOLOv10n': 'track_yolov10n.py',
-        'YOLOv11n': 'track_yolov11n.py',
-        'YOLOv12n': 'track_yolov12n.py'
+        'YOLOv10n': 'src/track_yolov10n.py',
+        'YOLOv11n': 'src/track_yolov11n.py',
+        'YOLOv12n': 'src/track_yolov12n.py'
     }
     
     # Run each model and collect results

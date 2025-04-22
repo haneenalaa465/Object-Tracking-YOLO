@@ -1,0 +1,4 @@
+Model: YOLOv11n
+Average FPS: 5.32
+Total processing time: 176.95 seconds
+Device: CPU

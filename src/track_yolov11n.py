@@ -10,7 +10,7 @@ def track_objects(video_path, output_path, conf_threshold=0.3, device='cuda'):
     Track objects in video using YOLOv11n model.
     """
     # Load YOLOv11n model
-    model_path = 'models/yolov11n.pt'
+    model_path = 'models/yolo11n.pt'
     if not os.path.exists(model_path):
         raise FileNotFoundError(f"Model file not found: {model_path}")
     

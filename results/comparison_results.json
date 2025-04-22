@@ -1,0 +1,17 @@
+{
+    "YOLOv10n": {
+        "avg_fps": 4.59,
+        "total_time": 205.3,
+        "execution_time": 234.10607147216797
+    },
+    "YOLOv11n": {
+        "avg_fps": 5.32,
+        "total_time": 176.95,
+        "execution_time": 216.8033950328827
+    },
+    "YOLOv12n": {
+        "avg_fps": 4.88,
+        "total_time": 193.16,
+        "execution_time": 230.41492319107056
+    }
+}
