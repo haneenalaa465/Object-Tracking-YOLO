@@ -60,12 +60,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-3. Download the model weights:
-```bash
-python src/download_models.py
-```
-
-4. Place your input video in the `data/` directory or specify the path when running the scripts.
+3. Place your input video in the `data/` directory or specify the path when running the scripts.
 
 ## Usage
 
