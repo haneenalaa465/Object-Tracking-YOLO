@@ -26,7 +26,6 @@ object-tracking-comparison/
 │   ├── yolov12n_output.mp4                # Processed video with YOLOv12n
 │   └── yolov12n_output_metrics.txt        # Performance metrics for YOLOv12n
 ├── src/
-│   ├── download_models.py                 # Script to download model weights
 │   ├── main.py                            # Main processing script
 │   ├── run_comparison.py                  # Script to run all models and compare
 │   ├── track_yolov10n.py                  # YOLOv10n tracking implementation
