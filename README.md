@@ -6,6 +6,11 @@ This repository contains the implementation and results of comparing three YOLO 
 
 In this assignment, we evaluate the performance of different lightweight YOLO models on object tracking tasks, with a focus on inference speed. The same video is processed through each model to provide a fair comparison of their performance characteristics.
 
+### YOLOv10n
+https://github.com/user-attachments/assets/152619da-99d5-4332-b484-ec8e429eada7
+
+
+
 ## Project Structure
 
 ```
